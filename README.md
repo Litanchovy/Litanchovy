@@ -11,9 +11,7 @@
       <img height=300 src="https://files.catbox.moe/6adrdg.png">
     </p>
 
-<p align="center">
-      <img height=40 src="https://github.com/user-attachments/assets/687e586c-ced1-488a-8088-e1f036f6e57c">
-</p>
+
  <p align="right"> <img src="https://files.catbox.moe/x44ze2.png" width="50" height="50" align="right"> <kbd align="right"><br>I think being 20 years old and not having any children makes you the goat!<br>&nbsp;  </kbd></p>
 <p align="left"> <img src="https://files.catbox.moe/h3j80i.png" width="50" height="50" align="left"> <kbd><br>Oh yeah? I’m 30 and I don’t have any kids. What am I?<br>&nbsp;  </kbd> </p>  
  <p align="right"> <img src="https://files.catbox.moe/x04phr.png" width="50" height="50" align="right"> <kbd align="right"><br>gay?<br>&nbsp;  </kbd></p>
