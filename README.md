@@ -6,6 +6,6 @@
     </p>
           
 <p align="center">
-      ୨୧  changing git slowly  𐙚   
+      ୨୧  " hold my hand, don't ever let it go "  𐙚   
 
 <br> <p align="center">![](https://komarev.com/ghpvc/?username=Litanchovy&label=✦&color=000000)</p>
