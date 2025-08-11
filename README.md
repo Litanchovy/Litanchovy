@@ -1,5 +1,4 @@
 
-<br> <p align="center">![](https://komarev.com/ghpvc/?username=Litanchovy&label=✦&color=D64141)</p>
 
 <br>
 <p align="center">
@@ -9,3 +8,4 @@
 <p align="center">
       ୨୧  changing git slowly  𐙚   
 
+<br> <p align="center">![](https://komarev.com/ghpvc/?username=Litanchovy&label=✦&color=000000)</p>
