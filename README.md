@@ -21,32 +21,5 @@
 <p align="center">   <img height=40 src="https://dividers.crd.co/assets/images/gallery09/c315652e.gif?v=05d33f91">
 </p>
 <h3 align="center">          
-୨୧  pt inf  𐙚   
- </h3>   
- <hr class="solid">
-<p align="center"> 
-   <br> ${\textsf{\color{#ffffff}status :}}$
-   <br>
-   <br> ${\textsf{\color{#5E5E5E}Away = afk / w2i I'll get back to you!}}$
-   <br>
-   <br> ${\textsf{\color{#6E6E6E}Busy = w2i but no guranteed response}}$
-   <br>
-   <br> ${\textsf{\color{#939393}Online = Feel free to int!}}$ 
-   <br>
-   <br> ${\textsf{\color{#ffffff}xtra :}}$ 
-   <br>
-   <br> ${\textsf{\color{#D64141} cuddle or hide whenever!}}$
+୨୧  changing git slowly  𐙚   
 
-   <br>
-   <br> ${\textsf{\color{#C0282B}pretty much it, pls sign my straw!}}$
-   <br>
-   </p> 
-</br>
-<hr class="solid">
-
-<div align="center">
-<details>
-<summary>spotify</summary>
-      
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31umivrnaxahj6cwse3vgvyyx5uy&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=999999&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<br>
