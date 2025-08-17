@@ -1,5 +1,8 @@
+<div align="center">
 
-<br> <p align="center">![](https://komarev.com/ghpvc/?username=Litanchovy&label=✦&color=000000)</p>
+[![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&color=a69d94&center=true&vCenter=true&width=600&lines=How+can+we+escape+.+.;What's+happened+to,;all+those+others+who've+gone+before+us+two?)](https://git.io/typing-svg)
+
+<br> <p align="center">![](https://komarev.com/ghpvc/?username=Litanchovy&label=✦&color=A6A096)</p>
 <br>
 <p align="center">
       <img height=400 src="https://files.catbox.moe/xa05il.png">
